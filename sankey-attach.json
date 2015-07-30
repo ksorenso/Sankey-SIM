@@ -1,0 +1,83 @@
+{
+  "links" : [
+    {
+    "source" : "_vwAttach3MnBkgsPf",
+    "target" : "vwAttach3MnBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "_vwAttachBkgsPf",
+    "target" : "vwAttach3MnBkgsPf",
+    "value" : 1.0
+    },
+    {
+    "source" : "_vwAttachBkgsPf",
+    "target" : "vwAttach3MnBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "_vwAttachBkgsPf",
+    "target" : "vwAttachBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "_vwAttachBkgsSales",
+    "target" : "vwAttach3MnBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "ctg_bkgs_detail_boq",
+    "target" : "vwAttachBkgsPf",
+    "value" : 1.0
+    },
+    {
+    "source" : "ctg_bkgs_detail_boq",
+    "target" : "vwAttachBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "vwAttach3MnBkgsPf",
+    "target" : "_vwAttach3MnBkgsPf",
+    "value" : 1.0
+    },
+    {
+    "source" : "vwAttach3MnBkgsSales",
+    "target" : "_vwAttach3MnBkgsSales",
+    "value" : 1.0
+    },
+    {
+    "source" : "vwAttachBkgsPf",
+    "target" : "_vwAttachBkgsPf",
+    "value" : 1.0
+    }
+  ]
+,  "nodes" : [
+    {
+    "name" : "_vwAttach3MnBkgsPf"
+    },
+    {
+    "name" : "_vwAttach3MnBkgsSales"
+    },
+    {
+    "name" : "_vwAttachBkgsPf"
+    },
+    {
+    "name" : "_vwAttachBkgsSales"
+    },
+    {
+    "name" : "ctg_bkgs_detail_boq"
+    },
+    {
+    "name" : "vwAttach3MnBkgsPf"
+    },
+    {
+    "name" : "vwAttach3MnBkgsSales"
+    },
+    {
+    "name" : "vwAttachBkgsPf"
+    },
+    {
+    "name" : "vwAttachBkgsSales"
+    }
+  ]
+}
